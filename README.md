@@ -22,7 +22,8 @@ This repository contains a Python project that applies a rule-based classificati
 
 Clone the project to your local machine:
 
-`https://github.com/ZikrullahC/CarEvaulationDataSetClassicationWithRuleBasedMethod.git`
+
+[a link] (https://github.com/ZikrullahC/CarEvaulationDataSetClassicationWithRuleBasedMethod.git)
 
 
 Install the required libraries:
