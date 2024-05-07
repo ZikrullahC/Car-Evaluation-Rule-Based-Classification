@@ -27,10 +27,15 @@ Clone the project to your local machine:
 
 Install the required libraries:
 
+``` bash
+pip install pandas 
 ```
-bash pip install pandas
+``` bash
 pip install scikit-learn
-pip install matplotlib ```
+```
+``` bash 
+pip install matplotlib
+```
 
 
 ## Usage
