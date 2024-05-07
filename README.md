@@ -27,9 +27,9 @@ Clone the project to your local machine:
 
 Install the required libraries:
 
-```pip install pandas```
-```pip install scikit-learn```
-```pip install matplotlib```
+```bash pip install pandas```
+```bash pip install scikit-learn```
+```bash pip install matplotlib```
 
 
 ## Usage
